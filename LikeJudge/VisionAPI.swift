@@ -15,7 +15,7 @@ import SwiftyJSON
 import Alamofire
 
 class VisionAPI {
-    var API_KEY = "AIzaSyA8pH3Fgk0EL3qb0UCDXTGWJruVj4iij_E"
+    var API_KEY = YOUR_KEY
     var googleURL: URL {
         return URL(string: "https://vision.googleapis.com/v1/images:annotate?key=\(API_KEY)")!
     }
