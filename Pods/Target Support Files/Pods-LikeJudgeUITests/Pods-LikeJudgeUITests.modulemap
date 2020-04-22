@@ -1,0 +1,6 @@
+framework module Pods_LikeJudgeUITests {
+  umbrella header "Pods-LikeJudgeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
