@@ -10,7 +10,7 @@ gunicorn==19.9.0
 idna==2.8
 imageio==2.5.0
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 kiwisolver==1.1.0
 macholib==1.11
 MarkupSafe==1.1.1
