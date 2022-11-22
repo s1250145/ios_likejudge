@@ -19,7 +19,7 @@ modulegraph==0.17
 networkx==2.3
 numpy==1.17.2
 opencv-python==4.1.1.26
-Pillow==6.1.0
+Pillow==9.3.0
 py2app==0.19
 requests==2.22.0
 scikit-image==0.15.0
